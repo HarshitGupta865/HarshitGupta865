@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://https://photos.google.com/search/_tra_/photo/AF1QipMZWdXgRu3riCnVw1WQ77HY6CRQIC-J68uGpojt" />
 </p>
 
 ```js
