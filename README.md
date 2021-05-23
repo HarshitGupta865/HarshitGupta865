@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://user-images.githubusercontent.com/75371402/119252871-25fd1e80-bbcc-11eb-966d-5a2fe90e18ed.png" />
 </p>
+
+
 
 ```js
 import ComputerScienceEngineer from 'HarshitGupta';
