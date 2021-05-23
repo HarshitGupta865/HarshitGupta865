@@ -3,18 +3,18 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import ComputerScienceEngineer from 'HarshitGupta';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+class Bio extends ComputerScienceEngineer {
+  name     = 'Harshit Kumar Gupta';
+  title    = 'Full Stack Developer';
+  college  = 'Silicon Institute of Technology | Odisha';
+  country = 'India';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+class Skills extends FullStackDeveloper {
+  languages  = ['HTML', 'CSS', 'Javascript', 'Python', 'Node.js'];
+  databases  = ['MongoDB'];
+  frameworks = ['Bootstrap', 'React', 'Express.js'];
 }
 ```
