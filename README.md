@@ -9,16 +9,20 @@ import ComputerScienceEngineer from 'HarshitGupta';
 
 class Bio extends ComputerScienceEngineer {
   name     = 'Harshit Kumar Gupta';
-  title    = 'Senior Analyst Intern at Capgemini';
+  title    = 'Senior Analyst at Capgemini';
   college  = 'Silicon Institute of Technology | Odisha';
-  batch = '4th year | 2018-2022';
+  batch = '2018-2022';
   country = 'India';
 }
 
 class Skills extends FullStackDeveloper {
-  languages  = ['HTML', 'CSS', 'C#', 'Javascript', 'Python', 'Node.js'];
-  databases  = ['MongoDB'];
-  frameworks = ['Bootstrap', 'React', 'Express.js'];
+  fieldofwork = ['Web Development', 'Data Analysis', 'Data Visualisation', 'Machine Learning', 'Data Science']
+  languages  = ['HTML', 'CSS', 'Javascript', 'Java', 'C#', 'Python'];
+  databases  = ['SQL', 'MongoDB'];
+  frameworks = ['Bootstrap', 'JQuery', 'ReactJS', 'NodeJS', 'ExpressJS', 'Flask' 'Tensorflow', 'Keras', 'Scikit-learn'];
+  packages  = ['NPM', 'Nodemon', 'Numpy', 'Pandas', 'Matplotlib', 'Seaborn'];
+  commandline  = ['cmd', 'git bash', 'Anaconda'];
+  IDE = ['Visual Studio Code', 'Visual Studio', 'Pycharm', 'Jupyter Notebook', 'Atom']
 }
 ```
 
@@ -35,6 +39,8 @@ class Skills extends FullStackDeveloper {
 <h3 align="center">Profile stats :musical_keyboard:</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HarshitGupta865&show_icons=true&theme=synthwave" alt="HarshitGupta865 :: Profile Stats" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitGupta865&show_icons=true&theme=synthwave" alt="Harshit Gupta" /></p>
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
